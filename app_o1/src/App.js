@@ -16,7 +16,7 @@ let text2 = '222';
 return (
 <>
 <div className="container">
-<h1><code style = {style1}>app_1</code></h1>
+<h1><code style = {style1}>app_2</code></h1>
 <img src="/images/logo_small.png"  alt="logo"/>
 <ul>
 <li>Hello</li>

@@ -1,0 +1,19 @@
+.Sitebar {
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid rgb(61, 61, 61);
+    padding: 10px;
+    margin: 5px;
+}
+.Sitebar{
+    
+    grid-area: s;
+}
+
+.Sitebar ul {
+    padding-left: 0;
+}
+.Sitebar ul li {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 18px;
+}
